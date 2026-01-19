@@ -5,8 +5,8 @@ permalink: /constitution/
 ---
 
 Below 
-(and [here](https://github.com/dzvigelsky/dzvigelsky.github.io/blob/main/files/MSGS_Constitution.pdf))
-, you can find the MSGS Constitution which outlines the functional aspects of our organization.
+(and [here](https://github.com/dzvigelsky/dzvigelsky.github.io/blob/main/files/MSGS_Constitution.pdf)),
+you can find the MSGS Constitution which outlines the functional aspects of our organization.
 
 <object data="https://github.com/dzvigelsky/dzvigelsky.github.io/blob/main/files/MSGS_Constitution.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="[http://yoursite.com/the.pdf](https://github.com/dzvigelsky/dzvigelsky.github.io/blob/main/files/MSGS_Constitution.pdf)">
