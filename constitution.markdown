@@ -8,4 +8,4 @@ Below
 (and [here](https://github.com/dzvigelsky/dzvigelsky.github.io/blob/main/files/MSGS_Constitution.pdf))
 , you can find the MSGS Constitution which outlines the functional aspects of our organization.
 
-<a href="files/MSGS_Constitution.pdf" target="_blank">PDF.</a>
+<embed src="https://github.com/dzvigelsky/dzvigelsky.github.io/blob/main/files/MSGS_Constitution.pdf" type="application/pdf" width="100%" height="800px" />
