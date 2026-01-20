@@ -4,6 +4,11 @@ title: Constitution
 permalink: /constitution/
 ---
 
+https://github.com/dzvigelsky/dzvigelsky.github.io/blob/main/files/MSGS_constitution_banner.jpg
+
+<object data="https://dzvigelsky.github.io/files/MSGS_constitution_banner.jpg"         type="application/jpg"         width="700px"         height="700px">    <embed src="https://dzvigelsky.github.io/files/MSGS_constitution_banner.jpg"            type="application/jpg"            width="700"            height="700" />
+</object>
+
 Below 
 (and [here](https://github.com/dzvigelsky/dzvigelsky.github.io/blob/main/files/MSGS_Constitution.pdf)),
 you can find the MSGS Constitution which outlines the functional aspects of our organization.
