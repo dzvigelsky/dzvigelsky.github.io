@@ -4,7 +4,7 @@ title: Constitution
 permalink: /constitution/
 ---
 
-![](https://dzvigelsky.github.io/files/MSGS_constitution_banner.jpg =700x)
+![](https://dzvigelsky.github.io/files/MSGS_constitution_banner.jpg =7000x)
 
 Below 
 (and [here](https://github.com/dzvigelsky/dzvigelsky.github.io/blob/main/files/MSGS_Constitution.pdf)),
