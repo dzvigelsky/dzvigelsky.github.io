@@ -4,8 +4,11 @@ title: Constitution
 permalink: /constitution/
 ---
 
-<object data="https://dzvigelsky.github.io/files/MSGS_constitution_banner.jpg"         type="application/jpg"         width="700px"         height="700px">    <embed src="https://dzvigelsky.github.io/files/MSGS_constitution_banner.jpg"            type="application/jpg"            width="700"            height="700" />
-</object>
+<img
+  src="https://dzvigelsky.github.io/files/MSGS_constitution_banner.jpg"
+  alt="MSGS Constitution Banner"
+  width="700"
+>
 
 Below 
 (and [here](https://github.com/dzvigelsky/dzvigelsky.github.io/blob/main/files/MSGS_Constitution.pdf)),
